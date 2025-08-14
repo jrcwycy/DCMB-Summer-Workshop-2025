@@ -2,6 +2,7 @@
 ## Coding
 * [Practice Python](https://www.practicepython.org/): Python practice problems
 * [Khan Academy](https://alison.com/course/introduction-to-programming-with-python): Introduction to programming with Python course
+* [ROSALIND](https://rosalind.info/problems/locations/): Platform for learning bioinformatics and programming through problem solving
 
 ## Biology
 * [Single-Cell Best Practices](https://www.sc-best-practices.org/preamble.html): Best practices for single-cell sequencing analysis

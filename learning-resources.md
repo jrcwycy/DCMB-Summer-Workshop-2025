@@ -4,4 +4,5 @@
 * [Khan Academy](https://alison.com/course/introduction-to-programming-with-python): Introduction to programming with Python course
 
 ## Biology
-* CZI
+* [CELLxGENE Discover](https://cellxgene.cziscience.com/): Library/browser of single-cell biology
+* [Single-Cell Best Practices](https://www.sc-best-practices.org/preamble.html): Best practices for single-cell sequencing analysis

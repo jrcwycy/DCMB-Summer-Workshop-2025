@@ -7,3 +7,6 @@ A repository providing notebooks from the coding breakout sessions, as well as a
 
 Event website: https://medschool.umich.edu/events/exploring-careers-bioinformatics
 
+<br>
+Gilbert S. Omenn Department of Computational Medicine & Bioinformatics <br>
+https://medschool.umich.edu/departments/computational-medicine-bioinformatics
